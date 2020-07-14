@@ -6,7 +6,9 @@ Primary Languages and Technologies Used: JavaScript, JQuery
 
 Project Type: Website
 
-Main task: ADD the list
-           DELETE the list
-           EDIT the list
-           SAVE the list
+Main Activity of the code:
+--> ADD the list
+--> DELETE the list
+--> EDIT the list
+--> SAVE the list
+--> Can add multiple rows in the table by all the above listed elements.
